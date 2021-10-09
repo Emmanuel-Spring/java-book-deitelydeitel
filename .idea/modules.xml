@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Deitel&amp;&amp;Deitel/Deitel&amp;&amp;Deitel.iml" filepath="$PROJECT_DIR$/Deitel&amp;&amp;Deitel/Deitel&amp;&amp;Deitel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/holamundo-fundamentos-java.iml" filepath="$PROJECT_DIR$/holamundo-fundamentos-java.iml" />
+    </modules>
+  </component>
+</project>
