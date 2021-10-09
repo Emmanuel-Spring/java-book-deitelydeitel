@@ -2,6 +2,14 @@ package Capitulo06;
 
 import java.util.Random;
 
+/**  Fig 6.8: TiradorDado.java
+ *  tirar un dado de 6 lados 6000 veces
+ *
+ * @version 09/10/2021
+ * @author Emmanuel Nieto Muñoz
+ * @see
+ */
+
 public class TiradorDado {
     public static void main(String[] args) {
 
