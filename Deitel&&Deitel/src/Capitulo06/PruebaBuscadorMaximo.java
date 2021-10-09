@@ -10,7 +10,7 @@ package Capitulo06;
 
 public class PruebaBuscadorMaximo {
 
-    // Prueba de inicio de la aplicación
+    // Prueba de inicio de la aplicación buscadormaximo
     public static void main(String[] args) {
 
         BuscadorMaximo buscadorMaximo = new BuscadorMaximo();
