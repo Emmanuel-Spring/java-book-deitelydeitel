@@ -16,13 +16,13 @@ public class EnterosAleatorios {
         Random numerosAleatorios = new Random();  // Generador de números enteros aleatorios
         int cara;  // Almacena cada entero aleatorio generado
 
-        for (int contador = 1; contador <= 20; contador++) {
+        for (int contador = 1; contador <= 200; contador++) {
             cara = 1 + numerosAleatorios.nextInt(6);
 
             System.out.printf("%d ", cara);  // Muestra el valor generado
 
             // Si contador es divisible entre 5, empieza una nueva línea de salida
-            if (contador % 5 == 0)
+            if (contador % 10 == 0)
                 System.out.println();
         } // fin de for
     }  // fin de main

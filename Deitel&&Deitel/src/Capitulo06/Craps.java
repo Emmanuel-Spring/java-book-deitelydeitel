@@ -16,7 +16,7 @@ public class Craps {
     private Random numerosAleatorios = new Random();
 
     // Enumeracion con constantes que representan el estado del juego
-    private enum Estado {CONTINUA, GANO, PIERDO};
+    private enum Estado {CONTINUA, GANO, PIERDO} ;
 
     //   Constantes que representan tiros comunes de los dados
     private final static int DOS_UNOS = 2;
